@@ -12,4 +12,4 @@ A flutter program to be submitted to `Sir Jopak Isaguirre` for Enabling Assessme
 
 ### Widget Tree
 
-![widget tree](https://github.com/TheSciCoder3000/ultra-xylophone/blob/main/widget_tree/todo_v1.jpg?raw=true)
+![widget tree](https://github.com/TheSciCoder3000/todo_v1/blob/main/widget_tree/todo_v1.jpg?raw=true)
